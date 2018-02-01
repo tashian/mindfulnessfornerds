@@ -1,0 +1,19 @@
+{
+  "name": "mindfulnessfornerds",
+  "version": "1.0.0",
+  "description": "Landing page for Mindfulness for Nerds",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tashian/mindfulnessfornerds.git"
+  },
+  "author": "Carl Tashian",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/tashian/mindfulnessfornerds/issues"
+  },
+  "homepage": "https://github.com/tashian/mindfulnessfornerds#readme"
+}
