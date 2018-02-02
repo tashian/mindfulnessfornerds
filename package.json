@@ -4,7 +4,8 @@
   "description": "Landing page for Mindfulness for Nerds",
   "main": "index.js",
   "scripts": {
-    "test": "exit 0"
+    "test": "exit 0",
+    "sass": "node-sass --include-path node_modules/bootstrap/scss/ assets/sass/main.scss build/css/style.css"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/tashian/mindfulnessfornerds/issues"
   },
-  "homepage": "https://github.com/tashian/mindfulnessfornerds#readme"
+  "homepage": "https://github.com/tashian/mindfulnessfornerds#readme",
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7"
+  },
+  "devDependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "node-sass": "^4.7.2",
+    "popper.js": "^1.12.9"
+  }
 }
