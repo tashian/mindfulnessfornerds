@@ -6025,3 +6025,29 @@ a.text-dark:hover, a.text-dark:focus {
   .table-bordered th,
   .table-bordered td {
     border: 1px solid #ddd !important; } }
+
+body {
+  padding-bottom: 100px; }
+
+h1 {
+  font-family: apple-system,Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans", "Helvetica Neue", sans-serif;
+  color: rgba(0, 0, 0, 0.84);
+  font-size: 2em;
+  margin: 0.67em 0; }
+
+h4 {
+  font-family: apple-system,Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: rgba(0, 0, 0, 0.68);
+  font-weight: normal; }
+
+p, li {
+  font-family: Georgia, Cambria, "Times New Roman", serif;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 1.58;
+  color: rgba(0, 0, 0, 0.84); }
+
+p {
+  margin-top: 29px; }
